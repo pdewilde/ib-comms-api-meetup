@@ -1,0 +1,4 @@
+infobip-api-python-client
+python-escpos
+pyngrok
+flask
